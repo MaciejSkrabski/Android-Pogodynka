@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Pogodynka</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_city">City,Country (ex. Łódź,pl)</string>
+    <string name="clear_button_text">Clear</string>
+    <string name="next_button_text">Next</string>
+    <string name="test_text" id = "test_text">test</string>
 </resources>
